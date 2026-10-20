@@ -66,7 +66,7 @@ Janji yang mengikat seluruh halaman dan materi kami:
 |---|---|
 | [rrdevs.my.id](https://rrdevs.my.id) | Situs utama |
 | [barberpro.rrdevs.my.id](https://barberpro.rrdevs.my.id) | Demo sistem siap pakai (login demo publik: `demo@gmail.com` / `barberpro`) |
-| [theo-teknik.rrdevs.my.id](https://theo-teknik.rrdevs.my.id) | Proyek pro bono live — dibangun gratis sebagai bukti kerja, masih dipakai |
+| [theo-teknik.rrdevs.my.id](https://theo-teknik.rrdevs.my.id) | Proyek kerja sama — dibangun gratis sebagai bukti kerja, masih dipakai |
 | [architect-studio.rrdevs.my.id](https://architect-studio.rrdevs.my.id) | Demo desain |
 | [kopisenja.rrdevs.my.id](https://kopisenja.rrdevs.my.id) | Demo desain |
 | [batik.rrdevs.my.id](https://batik.rrdevs.my.id) | Demo desain |

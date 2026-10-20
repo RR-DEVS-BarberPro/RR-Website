@@ -121,7 +121,7 @@ export default function BarbershopPage() {
           </div>
            
           <p className="bs-price-care">Perawatan opsional: Rp{CARE_PRICE.toLocaleString('id-ID')}/bulan — backup & keamanan mingguan, update konten 2×/bulan, laporan performa, dukungan teknis.</p>
-          <p className="bs-price-fine">Tidak cocok di 3 hari pertama? DP kembali 100%. Mulai hari ke-4, DP menutup pekerjaan yang sudah berjalan. Pengerjaan target 14 hari kerja sejak DP dan bahan lengkap.</p>
+          <p className="bs-price-fine">Tidak cocok di 3 hari pertama? DP kembali 100%. Mulai hari ke-4, DP menutup pekerjaan yang sudah berjalan. Pengerjaan target ≤14 hari kerja sejak DP dan bahan lengkap.</p>
         </div>
       </section>
 

@@ -121,7 +121,7 @@ const CAROUSELS = {
       'Dashboard pendapatan & barber tersibuk, bisa dipantau dari HP.',
       'Branding tokomu: warna, logo, nama, dan harga sendiri.',
     ],
-    note: 'domain + hosting + SSL 1 tahun · training + dokumentasi · target 14 hari kerja sejak DP & bahan lengkap' },
+    note: 'domain + hosting + SSL 1 tahun · training + dokumentasi · target ≤14 hari kerja sejak DP & bahan lengkap' },
 
   { chip: 'BASIC · LANDING PAGE',
     title: (<>Rp2,9jt<br /> <em>Target tayang cepat.</em></>),
@@ -184,7 +184,7 @@ const CAROUSELS = {
       'Pelanggan pilih layanan, kapster & jam dari HP',
       'Notifikasi WhatsApp otomatis ke toko',
       'Dashboard admin (kelola booking & Jadwal)',
-      'Pengerjaan 14 hari kerja sejak bahan lengkap',
+      'Pengerjaan ≤14 hari kerja sejak bahan lengkap',
       'Support 30 hari setelah live',
   ], img: '/images/barberpro-portfolio.png', imgAlt: 'Hero BarberPro', imgBar: 'barberpro.rrdevs.my.id', },
 { chip: 'BASIC · LANDING PAGE', title: (<>Landing Page <em><span className="nb">Rp2,9 jt.</span></em></>),

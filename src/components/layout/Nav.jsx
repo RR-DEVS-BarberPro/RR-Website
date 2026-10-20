@@ -14,7 +14,7 @@ export default function Nav() {
     return () => window.removeEventListener('scroll', fn)
   }, [])
   // halaman dengan hero gelap → nav harus terang saat belum di-scroll
-  const darkHero = pathname === '/barbershop'
+  const darkHero = pathname === '/barbershop';
   const sectionLinks = [
     { id: 'tentang', label: 'Tentang' },
     { id: 'layanan', label: 'Layanan' },

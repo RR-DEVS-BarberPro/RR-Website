@@ -75,7 +75,7 @@ export const DEMOS = [
 
 export const TICKER = [
   'Sistem Booking Barbershop', 'BarberPro — Demo Live', 'Tanpa Double-Booking',
-  'Notifikasi WhatsApp Otomatis', 'Dashboard Owner', 'Setup ±14 Hari', 'Jabodetabek',
+  'Notifikasi WhatsApp Otomatis', 'Dashboard Owner', 'Setup ≤14 Hari Kerja', 'Jabodetabek',
 ]
 
 /* ---------- Layanan (BarberPro unggulan pertama) ---------- */
@@ -161,7 +161,7 @@ export const PLANS = [
       'Kode & data 100% milik tokomu — tanpa langganan bulanan ke kami',
       'Training singkat + dokumentasi',
       'Gratis revisi sampai 3×',
-      'Pengerjaan target 14 hari kerja sejak bahan lengkap',
+      'Pengerjaan target ≤14 hari kerja sejak bahan lengkap',
       'Support 30 hari setelah live',
     ],
     flag: '★ SISTEM BOOKING',
